@@ -34,9 +34,10 @@ python inference.py
 # Experiment Results
 Here are the main results of our experiment:
 
-<img src="assets/Main Results.PNG" width="1400">
+<img src="assets/Main Results.PNG" width="1000">
 
 Also, zero-shot evaluation of 7 constellation datasets and 3 real-world satellite datasets.
+
 <img src="assets/Zero-shot Evaluation.PNG" width="1400">
 
 
