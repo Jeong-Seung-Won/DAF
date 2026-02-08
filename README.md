@@ -1,5 +1,5 @@
-# Decomposed Attention FredFormer (DAF) 
-This is an official implementation of a KDD2026 paper, "Decopmosed Attention FredFormer: Large Time-series Prediction Model For Satellite Orbit Prediction"
+# Decomposed Attention Frequency debiased transformer model (DAF) 
+This is an official implementation of a KDD2026 paper, "Decopmosed Attention Frequency debiased transformer model: Large Time-series Prediction Model For Satellite Orbit Prediction"
 
 # Contribution 
 DAF focuses on addressing the issue of limited generalization capability in existing time-series models for satellite orbit prediction across diverse orbital regimes and satellite types. This limitation can cause models to fail when applied to satellites with different characteristics or orbital parameters from their training data. We have conducted comprehensive zero-shot evaluations on this challenge and proposed a novel solution through architectural modifications including RFFT transformation, positional embedding adoption, and Tensor Train Decomposition integration. Extensive experimental results on seven constellation datasets and three real-world satellite datasets demonstrate the effectiveness and deployment potential of DAF.
