@@ -38,6 +38,7 @@ Here are the main results of our experiment:
 
 Also, zero-shot evaluation of 7 constellation datasets and 3 real-world satellite datasets.
 
+<img src="assets/Zero-shot Real-world.PNG" width="1000">
 <img src="assets/Zero-shot Evaluation.PNG" width="1400">
 
 
