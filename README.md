@@ -31,14 +31,5 @@ After training is completed, the model is saved in the current directory in the 
 python inference.py
 ```
 
-# Experiment Results
-Here are the main results of our experiment:
-
-<img src="assets/Main Results.PNG" width="1400">
-
-Also, zero-shot evaluation of 7 constellation datasets and 3 real-world satellite datasets.
-
-<img src="assets/Zero-shot Real-world.PNG" width="1000">
-<img src="assets/Zero-shot Evaluation.PNG" width="1400">
 
 
