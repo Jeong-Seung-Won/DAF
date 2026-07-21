@@ -6,7 +6,7 @@ DAF focuses on addressing the issue of limited generalization capability in exis
 
 # Architecture
 <div align="center">
-<img src="./DAF Architecture.PNG" width="1400">
+<img src="https://raw.githubusercontent.com/Jeong-Seung-Won/DAF/main/DAF%20Architecture.PNG" width="1400">
 </div>
 
 # Dependencies
